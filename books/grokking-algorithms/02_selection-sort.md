@@ -1,1 +1,14 @@
 ### Chapter 2 - Selection Sort
+- data structures
+  - arrays
+    - reading is O(1), insertion is O(n)
+    - great at reading
+  - linked lists
+    - insertion is O(1), reading is O(n)
+    - not contiguous, optimal for insertion
+  - hybrid data structure
+    - an array of linked lists
+- selection sort
+  - example: artist and # of plays, every element looked at, n times
+    - so O(n) * n times = O(n²)
+  - useful but resource intensive
