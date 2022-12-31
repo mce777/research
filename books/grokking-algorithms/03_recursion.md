@@ -5,4 +5,5 @@
     - if there's no base case, you risk an infinite loop
 
 - `call stack`
-  - asf
+  - when you call a function from another function, the calling function is paused in a partially completed state
+  - a stack has two operations: `push` and `pop`
