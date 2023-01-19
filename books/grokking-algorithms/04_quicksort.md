@@ -1,0 +1,3 @@
+- background info: see Euclid's algorithm
+- quicksort uses the concept "divide & conquer"
+- when you're writing a recursive function involving an array, the base case is often an empty array or an array with one elemnt. 
